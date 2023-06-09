@@ -1,2 +1,2 @@
 # Clone-tabnews
-Projeto de aprendezagem 
+Projeto de aprendizagem
